@@ -22,8 +22,5 @@ public class Main {
         } else {
             System.out.println("The number " + input + " appears " + count + " times!");
         }
-
-
-
     }
 }
